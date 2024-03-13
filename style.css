@@ -21,3 +21,8 @@
   justify-content: center;
   align-items: center;
 }
+
+.list-item {
+  color: red;
+  font-size: 30px;
+}
