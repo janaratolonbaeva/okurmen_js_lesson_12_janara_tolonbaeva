@@ -1,0 +1,23 @@
+.container-child-1 {
+  background: blueviolet;
+  height: 200px;
+  width: 200px;
+  color: #fff;
+}
+
+.container-child-2 {
+  background: red;
+  height: 100px;
+  width: 100px;
+  color: #ccc;
+}
+
+.container-child-3 {
+  background: green;
+  width: 400px;
+  height: 400px;
+  color: pink;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
